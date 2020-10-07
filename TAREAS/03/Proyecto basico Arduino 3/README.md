@@ -1,16 +1,15 @@
 # Tarea Número 03
-## Proyectos basicos Arduino 
+## Proyecto de circuito contador 
 ## Proyectos de Simulacion 
-## Abad Dolores Lazaro
-## Erick Abimael Rodriguez Hernandez
+##Rodríguez Hernández Erick Abimael (Diseño esquemático final, simulacion y elaboración de reporte)
+##Abad Dolores Lázaro (Diseño esquemático base y revisión)
 
-Proyecto 1 
- Este proyecto consiste en un circuito contador desarrollado con
- dos alternativas, con la informacion desplegada en una pantalla LCD 
- y con la informacion desplegada en un display 7 segentos 4 digitos
 
-Proyecto 2
- Este proyecto consiste en un circuito basado en un sensor untrasonico
- que tiene como fin medir distancias, este sistema despues de obtener 
- la distancia la despliega en una pantalla LCD
 
+El circuito contador es escencialmente lo mismo en ambos casos cambiando 
+unicamente la alternativa de despliegue de la informacion obtenida
+1. Contador con LCD
+2. Contador con Display 7 segmentos 4 digitos
+
+
+Esta tarea se entregó el día 06 de octubre del 2020
