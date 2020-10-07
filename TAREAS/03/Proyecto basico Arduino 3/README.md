@@ -1,7 +1,9 @@
 # Tarea Número 03
 ## Proyecto de circuito contador 
 ## Proyectos de Simulacion 
+
 ##Rodríguez Hernández Erick Abimael (Diseño esquemático final, simulacion y elaboración de reporte)
+
 ##Abad Dolores Lázaro (Diseño esquemático base y revisión)
 
 
