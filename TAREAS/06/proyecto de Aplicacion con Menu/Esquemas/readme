@@ -1,0 +1,21 @@
+###Esquemas de simulacion.
+#Abad Dolores Lazaro
+#Erick Abimael Rodriguez Hernandez
+
+En este apartado se encuentran los proyectos de simulacion
+desarrollados para elproyecto. Lamentablemente por prestaciones 
+de la plataforma de simuacion no contamos con medios para 
+simular el sensor DHT11 por lo que ha sido omitido para esta 
+instancia por lo que se imprimiran ceros en las lecturas.
+En este caso se cuenta con dos versiones del sistema:
+
+Codigo para botones:
+el programa esta adaptado para manejar el menu con botones, al no
+contar con suficientes pines de interrupcion el manejo de este es 
+llevado por la supervision constante de las entradas digitales
+
+Codigo para encoder:
+este es la version original del manejo del menu, todo el sistema es
+controlado por un unico encoder el cualresponde a interrupciones por
+lo que es mas eficiente en respuesta.
+

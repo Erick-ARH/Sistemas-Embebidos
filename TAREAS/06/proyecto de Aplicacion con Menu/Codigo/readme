@@ -1,0 +1,16 @@
+###Codigo de Arduino
+#Abad Dolores Lazaro
+#Erick Abimael Rodriguez Hernandez
+
+En este apartado se encuentran los codigos  desarrollados para el
+proyecto. En este caso se cuenta con dos versiones del codigo:
+
+Codigo para botones:
+el programa esta adaptado para manejar el menu con botones, al no
+contar con suficientes pines de interrupcion el manejo de este es 
+llevado por la supervision constante de las entradas digitales
+
+Codigo para encoder:
+este es la version original del manejo del menu, todo el sistema es
+controlado por un unico encoder el cualresponde a interrupciones por
+lo que es mas eficiente en respuesta.
