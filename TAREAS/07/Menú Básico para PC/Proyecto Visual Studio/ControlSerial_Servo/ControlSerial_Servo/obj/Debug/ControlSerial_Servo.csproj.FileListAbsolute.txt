@@ -1,0 +1,20 @@
+C:\Users\Admin\Documents\Escuela\Sistemas Embebidos\TAREAS\ControlSerial_Servo\ControlSerial_Servo\bin\Debug\ControlSerial_Servo.exe.config
+C:\Users\Admin\Documents\Escuela\Sistemas Embebidos\TAREAS\ControlSerial_Servo\ControlSerial_Servo\bin\Debug\ControlSerial_Servo.exe
+C:\Users\Admin\Documents\Escuela\Sistemas Embebidos\TAREAS\ControlSerial_Servo\ControlSerial_Servo\bin\Debug\ControlSerial_Servo.pdb
+C:\Users\Admin\Documents\Escuela\Sistemas Embebidos\TAREAS\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Escuela\Sistemas Embebidos\TAREAS\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.Form1.resources
+C:\Users\Admin\Documents\Escuela\Sistemas Embebidos\TAREAS\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.Properties.Resources.resources
+C:\Users\Admin\Documents\Escuela\Sistemas Embebidos\TAREAS\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Escuela\Sistemas Embebidos\TAREAS\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Escuela\Sistemas Embebidos\TAREAS\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.exe
+C:\Users\Admin\Documents\Escuela\Sistemas Embebidos\TAREAS\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.pdb
+C:\Users\Dell\Desktop\lazaro\ControlSerial_Servo\ControlSerial_Servo\bin\Debug\ControlSerial_Servo.exe.config
+C:\Users\Dell\Desktop\lazaro\ControlSerial_Servo\ControlSerial_Servo\bin\Debug\ControlSerial_Servo.exe
+C:\Users\Dell\Desktop\lazaro\ControlSerial_Servo\ControlSerial_Servo\bin\Debug\ControlSerial_Servo.pdb
+C:\Users\Dell\Desktop\lazaro\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\lazaro\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.Form1.resources
+C:\Users\Dell\Desktop\lazaro\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.Properties.Resources.resources
+C:\Users\Dell\Desktop\lazaro\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\lazaro\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\lazaro\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.exe
+C:\Users\Dell\Desktop\lazaro\ControlSerial_Servo\ControlSerial_Servo\obj\Debug\ControlSerial_Servo.pdb
