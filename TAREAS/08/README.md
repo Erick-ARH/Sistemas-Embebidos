@@ -1,8 +1,8 @@
-###Tarea Número 08
+### Tarea Número 08
 
-##Trabajo de Investigación Bibliográfica
+## Trabajo de Investigación Bibliográfica
 
-#Uso de la plataforma IO Adafruit.
+# Uso de la plataforma IO Adafruit.
 
 Presentación en vivo.
 Sergio Francisco Hernández Machuca
