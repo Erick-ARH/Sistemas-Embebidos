@@ -1,5 +1,7 @@
 ###Tarea Número 08
+
 ##Trabajo de Investigación Bibliográfica
+
 #Uso de la plataforma IO Adafruit.
 
 Presentación en vivo.
