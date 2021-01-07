@@ -1,8 +1,9 @@
-###PROYECTO FINAL
+# Simulacion De circuitos
 Alumnos:
-##Abad Dolores Lázaro  (Simulacion)
-##Rodríguez Hernández Erick Abimael 
+### Abad Dolores Lázaro  (Simulacion)
+### Rodríguez Hernández Erick Abimael 
 Profesor:
-##Hernandez Machuca SErgio Francisco 
+### Hernandez Machuca SErgio Francisco 
 
+## Descripcion:
  Las simulaciones realizadas fueron elaboradas en Proteus
