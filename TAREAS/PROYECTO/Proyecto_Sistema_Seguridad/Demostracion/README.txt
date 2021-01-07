@@ -6,7 +6,7 @@ Profesor:
 ##Hernandez Machuca SErgio Francisco 
 
 
-La demostracion del funcionamiento de proyecto se sucito en una exposicion en ZOOM, posteriormente se realico un video editado en el que se expinia con mayor claridad  todo el sistema
+La demostracion del funcionamiento de proyecto se sucito en una exposicion en ZOOM, posteriormente se realiZo un video editado en el que se expinia con mayor claridad  todo el sistema
 
 Links de videos: 
 
