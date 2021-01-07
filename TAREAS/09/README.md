@@ -1,8 +1,8 @@
-###Tarea Número 09
-##Aplicación: Implementacion de un Sistema RTOs
-##Sergio Francisco Hernández Machuca
-#Abad Dolores Lázaro
-#Rodriguez Hernandez Erick Abimael
+# Tarea Número 09
+## Aplicación: Implementacion de un Sistema RTOs
+## Sergio Francisco Hernández Machuca
+### Abad Dolores Lázaro
+### Rodriguez Hernandez Erick Abimael
 Introducción
 
 Los sistemas en tiempo real se caracterizan por el hecho de que pueden producirse graves consecuencias si son lógicas y No se cumplen las propiedades de corrección de la sincronización del sistema. Una aplicación multitarea en tiempo real es un sistema en el que se deben procesar simultáneamente varias actividades críticas en el tiempo. Una multitarea en tiempo real kernel (también llamado sistema operativo en tiempo real, RTOS) es un software que asegura que el tiempo es crítico los eventos se procesan de la manera más eficiente posible. El uso de un RTOS generalmente simplifica el diseño proceso de un sistema al permitir que la aplicación se divida en múltiples elementos independientes llamados Tareas.
