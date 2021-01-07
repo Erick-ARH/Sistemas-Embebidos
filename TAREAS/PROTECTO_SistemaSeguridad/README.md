@@ -1,10 +1,10 @@
-### PROYECTO FINAL: SISTEMA DE SEGURIDAD
+# PROYECTO FINAL: SISTEMA DE SEGURIDAD
 
 Alumnos:
-## Abad Dolores Lázaro  (Manual de usuario, Simulacion, Diseño de Maqueta de puerta, Hardware puerta, diseño de Adafruit, Programacion)
-## Rodríguez Hernández Erick Abimael (Manual Tecnico, Diseño de Camara robotica, Hardware Camara robotica, Programacion y unificacion de programas )
+### Abad Dolores Lázaro  (Manual de usuario, Simulacion, Diseño de Maqueta de puerta, Hardware puerta, diseño de Adafruit, Programacion)
+### Rodríguez Hernández Erick Abimael (Manual Tecnico, Diseño de Camara robotica, Hardware Camara robotica, Programacion y unificacion de programas )
 Profesor:
-## Hernandez Machuca Sergio Francisco 
+### Hernandez Machuca Sergio Francisco 
 
 
 ### Definición:
