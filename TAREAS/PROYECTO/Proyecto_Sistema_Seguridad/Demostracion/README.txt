@@ -1,9 +1,9 @@
-###Demostracion de funcionamiento
+### Demostracion de funcionamiento
 Alumnos:
 ##Abad Dolores Lázaro  
-##Rodríguez Hernández Erick 
+## Rodríguez Hernández Erick 
 Profesor:
-##Hernandez Machuca SErgio Francisco 
+## Hernandez Machuca SErgio Francisco 
 
 
 La demostracion del funcionamiento de proyecto se sucito en una exposicion en ZOOM, posteriormente se realiZo un video editado en el que se expinia con mayor claridad  todo el sistema
