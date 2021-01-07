@@ -12,7 +12,7 @@ Profesor:
  Se propone la implementación de un sistema de seguridad y acceso para entradas de casa habitación de fácil manejo y gran versatilidad, el sistema estará compuesto de dos gadgets: cerradura con reconocimiento fácil y una cámara robotizada
 
 ### Problemática:
-La seguridad de un inmueble es un ámbito de suma importancia y un punto crucial es el control de accesos, la alternativa actual más habitual es el uso de serraduras mecánicas que se abren con llaves las cuales se pueden extraviar. 
+La seguridad de un inmueble es un ámbito de suma importancia y un punto crucial es el control de accesos, la alternativa actual más habitual es el uso de cerraduras mecánicas que se abren con llaves las cuales se pueden extraviar. 
 
 ### Objetivo general 
 
