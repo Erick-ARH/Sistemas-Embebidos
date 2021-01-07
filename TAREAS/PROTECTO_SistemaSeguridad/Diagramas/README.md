@@ -3,4 +3,4 @@
 ##Rodríguez Hernández Erick Abimael (EsquematicoCam,EsquematicoPuerta)
 Profesor:
 ##Hernandez Machuca Sergio Francisco 
-Los esquematicos de todo el poryecto fueron desarrrollados en ALTIUM, en estos se muestran todas las conecciones y circuitos empleados
+Los esquematicos de todo el proyecto fueron desarrrollados en ALTIUM, en estos se muestran todas las conecciones y circuitos empleados
