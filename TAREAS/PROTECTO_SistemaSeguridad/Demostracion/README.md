@@ -1,14 +1,14 @@
-### Demostracion de funcionamiento
-Alumnos:
-##Abad Dolores Lázaro  
-## Rodríguez Hernández Erick 
+# Demostracion de funcionamiento
+
+### Abad Dolores Lázaro  
+### Rodríguez Hernández Erick 
 Profesor:
-## Hernandez Machuca SErgio Francisco 
+### Hernandez Machuca SErgio Francisco 
 
 
 La demostracion del funcionamiento de proyecto se sucito en una exposicion en ZOOM, posteriormente se realiZo un video editado en el que se expinia con mayor claridad  todo el sistema
 
-Links de videos: 
+## Links de videos: 
 
 Entrega del equipo #3 para Sistemas Embebidos :
 1.- Video de presentación original.
